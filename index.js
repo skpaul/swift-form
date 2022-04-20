@@ -1,3 +1,0 @@
-function Check(){
-	return "ok";
-}
