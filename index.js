@@ -1,1 +1,3 @@
-I am v1.0.1
+function Check(){
+	return "ok";
+}
