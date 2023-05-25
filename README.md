@@ -1,4 +1,4 @@
-# Swift Submit JQuery Plugin
+# SwiftForm
 
 Version 3
 
