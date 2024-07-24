@@ -5,6 +5,10 @@
 
 //NOTE: no element can have the reserved word "submit" as ID or NAME in the form.
 
+// git tag 		//show current tags
+// git tag v11.0.22   	//create new tag
+// git push --tags -u origin master
+
 (function ($) {
     $.fn.swiftForm = function (options,validationRules, onBeforeSend, onSuccess, onError, onComplete) {
         var settings = $.extend({
